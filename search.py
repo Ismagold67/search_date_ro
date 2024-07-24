@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-import io
 
 # Função para carregar o banco de dados .xlsx
 @st.cache_data
